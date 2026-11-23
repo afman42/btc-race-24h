@@ -1,5 +1,11 @@
 # cbBTC Cost-Aware Trend Bot
 
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/afman42/btc-race-24h/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/afman42/btc-race-24h/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/btc-race-24h-20261123-0511)'s "Race a BTC trading bot live for 24 hours" bounty, $50 in USDC.
+
 A deterministic, simulation-only entry for `btc-race-24h-20261123-0511`. It speaks `agent-fun/bars-replay/v1` through the kit SDK and runs directly with Node's erasable TypeScript support—no install step, package dependency, network access, wall clock, or environment-driven decisions.
 
 ## Strategy
